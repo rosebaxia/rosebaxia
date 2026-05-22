@@ -6,7 +6,7 @@ en-US:
         headline:
           answer_nine: |-
             We are pleased to offer our creator affiliate partners a $10 commission for every purchase made through their linked TikTok video.
-          description: |-
+          description: |
             <li>A customer needs to order at least 1 item from your shoppable link.</li>
     users:
       verification_code: 'Your %{branded_name} code is: %{code}. Don’t share this
