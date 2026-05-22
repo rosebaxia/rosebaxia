@@ -1,0 +1,12 @@
+---
+en-US:
+  accounts_view:
+    layouts:
+      account_menu:
+        headline:
+          answer_nine: |-
+            Nous sommes ravis d'offrir à nos partenaires créateurs affiliés une commission de 10 $ pour chaque achat effectué via leur vidéo TikTok associée.
+          description: |
+            <li>Un client doit commander au moins un article via votre lien d'achat.</li>
+    users:
+      verification_code: 'Votre%{branded_name}code est : %{code}. N''en parle à personne d''autre. Méfiez-vous des tentatives d''hameçonnage qui pourraient vous inciter à divulguer votre code. %{sms_hash}'
