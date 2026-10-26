@@ -1,0 +1,12 @@
+---
+en-US:
+  accounts_view:
+    layouts:
+      account_menu:
+        headline:
+          answer_nine: |-
+            我们很高兴为我们的创作者联盟合作伙伴提供每笔通过其链接的 TikTok 视频产生的购买支付 10 美元的佣金。
+          description: |-
+            <li>顾客需要通过您的购物链接至少订购一件商品。</li>
+    users:
+      verification_code: '您的 %{branded_name} 代码为：%{code}。请勿将此信息分享给其他人。谨防网络钓鱼攻击，这些攻击可能会试图诱骗您泄露验证码。%{sms_hash}'
